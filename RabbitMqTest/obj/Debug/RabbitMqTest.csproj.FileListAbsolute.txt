@@ -1,0 +1,8 @@
+C:\Dev\Privat\Test\RabbitMqTest\RabbitMqTest\bin\Debug\RabbitMqTest.exe.config
+C:\Dev\Privat\Test\RabbitMqTest\RabbitMqTest\obj\Debug\RabbitMqTest.csprojResolveAssemblyReference.cache
+C:\Dev\Privat\Test\RabbitMqTest\RabbitMqTest\bin\Debug\RabbitMqTest.exe
+C:\Dev\Privat\Test\RabbitMqTest\RabbitMqTest\bin\Debug\RabbitMqTest.pdb
+C:\Dev\Privat\Test\RabbitMqTest\RabbitMqTest\obj\Debug\RabbitMqTest.exe
+C:\Dev\Privat\Test\RabbitMqTest\RabbitMqTest\obj\Debug\RabbitMqTest.pdb
+C:\Dev\Privat\Test\RabbitMqTest\RabbitMqTest\bin\Debug\RabbitMQ.Client.dll
+C:\Dev\Privat\Test\RabbitMqTest\RabbitMqTest\bin\Debug\RabbitMQ.Client.xml
